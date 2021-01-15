@@ -25,5 +25,8 @@
       "jsx",
       "json"
     ]
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
   }
 }
